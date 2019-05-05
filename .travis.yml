@@ -1,7 +1,7 @@
 notifications:
   webhooks:
     urls:
-      - https://mina-staging.bytedance.com/officialapp/notify/f798ffe33d9df6dfbc570f85b6f840c66408b15c25d5699ea16958dc58762487
+      - https://open.larksuite.com/officialapp/notify/fd8859c7cd02f64bd86174f672e0759fcfaf3e14962157c93504e84e98e837ae
     on_success: always # default: always
     on_failure: always # default: always
     on_start: always # default: never
